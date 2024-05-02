@@ -1,0 +1,1 @@
+chechking if default commmit message editor has changed or not
